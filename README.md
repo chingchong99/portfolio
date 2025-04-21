@@ -2,7 +2,7 @@
 Education
 Currently Btech Undergrade in Computer Science
 
-Hi, I'm [Your Name]!
+Hi, I'm Karthik Dinesh
 I'm a first-year engineering student at Vimal Jyothi Engineering College with a passion for technology, creativity, and learning new things. I'm currently exploring different fields of engineering and building a strong foundation in programming, design, and problem-solving. This portfolio is a space where I share my projects, skills, and learning journey as I grow into a future engineer.
 
 
