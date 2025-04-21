@@ -26,6 +26,4 @@ I’m always open to connecting, collaborating, or just chatting about tech and 
 
 📧 Email: karthikdinesh11520@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/amal-krishna-vh-a3484432b
-
 🧑‍💻 GitHub: https://github.com/chingchong99
