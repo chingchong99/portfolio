@@ -17,6 +17,7 @@ Database: MySQL
 Tools & Platforms: Git GitHub
 
 🚀 Projects
+
 🌐  Project making a soap solution in the chemistry lab, which gave me a practical understanding of chemical reactions and lab procedures
 
 🌐 Project Porfolio A sleek and responsive portfolio website that showcases my skills, projects, and background as a developer. It's built to represent who I am, what I’ve done, and where I’m headed — all in one place. Tech used: HTML CSS JavaScript
